@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Inter&family=Lexend+Deca&family=Libre+Franklin&family=Poppins&display=swap');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body{
+  background: #051139;
+  font-family: 'Poppins', 'sans-sarif';
+}
